@@ -1,0 +1,19 @@
+[17:50:23] *** Connected to harddrop.com:9200
+[17:50:23] *** Server version:7.5
+[17:50:23] *** Number of players:0
+[17:50:23] *** Login successful
+[17:50:23] *** Your nickname:noname
+[17:50:23] *** Your user number:51
+[17:50:23] *** Sending rule data...
+[2018-06-08 10:02:51]<noname> .-.
+[2018-06-09 06:51:19]<Lukas> Who wants to play?
+[2018-06-09 11:07:11]<noname(0)> d
+[2018-06-09 11:37:59]<Catsmeow> is anyone even here
+[2018-06-09 12:14:44]<sakura04> e
+[2018-06-09 12:38:16]<Catsmeow> is there human
+[2018-06-09 12:38:36]<Catsmeow> im wait for human
+[2018-06-09 12:47:04]<Catsmeow> YES
+[2018-06-09 12:47:09]<Catsmeow> SOMEONE IS HERE
+[2018-06-09 12:52:37]<Catsmeow> ok nevermind
+[17:50:24] *** Rule data send OK
+[17:50:28] *** DISCONNECTED

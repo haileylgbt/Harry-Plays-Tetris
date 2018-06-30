@@ -1,0 +1,19 @@
+[09:51:42] *** Connected to harddrop.com:9200
+[09:51:42] *** Server version:7.5
+[09:51:42] *** Number of players:4
+[09:51:42] *** Login successful
+[09:51:42] *** Your nickname:harry
+[09:51:42] *** Your user number:78
+[09:51:42] *** Sending rule data...
+[2018-06-10 03:03:32]<noname> Hello
+[2018-06-10 03:52:21]<Dant876> hi
+[2018-06-10 05:24:45]<swkuhn> hello
+[2018-06-10 06:59:42]<Dant876> hi
+[2018-06-10 07:01:48]<Dant876> /help xd
+[2018-06-10 07:01:55]<Dant876> /h
+[2018-06-10 07:18:22]<Xander1111> hello
+[2018-06-10 08:27:51]<noname(0)> I'm a noob
+[2018-06-10 09:20:58]<noname(0)> Anyone want to play :IIII+
+[2018-06-10 09:21:01]<noname(0)> oof.
+[09:51:43] *** Rule data send OK
+[09:51:47] *** DISCONNECTED
