@@ -1,3 +1,3 @@
 # Harry-Plays-Tetris
 A NullpoMino mod about, well, me!
->Note: Due to NullpoMino not allowing source redistribution, I won't be uploading the source.
+>Note: This is a note that changes a lot for no reason. Expect easter eggs and inside jokes.
