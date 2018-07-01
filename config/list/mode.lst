@@ -26,6 +26,7 @@ mu.nu.nullpo.game.subsystem.mode.TimeAttackMode
 mu.nu.nullpo.game.subsystem.mode.PracticeMode
 mu.nu.nullpo.game.subsystem.mode.GemManiaMode
 mu.nu.nullpo.game.subsystem.mode.VSBattleMode
+mu.nu.nullpo.game.subsystem.mode.HarryVSMode
 mu.nu.nullpo.game.subsystem.mode.ToolVSMapEditMode
 mu.nu.nullpo.game.subsystem.mode.NetVSBattleMode
 mu.nu.nullpo.game.subsystem.mode.AvalancheMode
