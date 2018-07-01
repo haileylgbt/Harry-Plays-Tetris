@@ -136,7 +136,7 @@ public class StateInGame extends BasicGameState {
 		if(modeObj == null) {
 			log.error("Couldn't find mode:" + modeName);
 		} else {
-			appContainer.setTitle("NullpoMino - " + modeName);
+			appContainer.setTitle("Harry Plays Tetris - " + modeName);
 			gameManager.mode = modeObj;
 		}
 
@@ -219,7 +219,7 @@ public class StateInGame extends BasicGameState {
 		if(modeObj == null) {
 			log.error("Couldn't find mode:" + modeName);
 		} else {
-			appContainer.setTitle("NullpoMino - " + modeName + " (Replay)");
+			appContainer.setTitle("Harry Replays Tetris - " + modeName);
 			gameManager.mode = modeObj;
 		}
 
