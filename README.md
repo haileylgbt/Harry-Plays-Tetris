@@ -1,3 +1,3 @@
 # Harry-Plays-Tetris
 A NullpoMino mod about, well, me!
->Note: The source has arrived via the terminal because the website likes to be a dick and restrict upload sizes. Also we have a .gitignore now.
+>Note: n++ is a fun game about a ninja who has 1.5 minutes to live through 5 levels of extreme difficulty. You should try it!
